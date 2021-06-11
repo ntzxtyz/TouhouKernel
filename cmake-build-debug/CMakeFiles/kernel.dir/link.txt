@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wall -m64 -nostdlib -fno-stack-limit -fno-builtin -mcmodel=large -g -T /home/tsurumi/TouhouKernel/kernel.lds CMakeFiles/kernel.dir/main.cpp.o -o ../build/kernel 
